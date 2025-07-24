@@ -17,7 +17,7 @@ export const ComponenteUseEffect = () => {
 
     return (
         <div>
-            <h3>Hook - UseEffect</h3>
+            <h3>Hook - UseEffectt</h3>
             <button onClick={cambiarValor}>Cambiar Valor</button>
         </div>
     )
